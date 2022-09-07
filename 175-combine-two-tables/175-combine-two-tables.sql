@@ -1,4 +1,3 @@
-/* Write your T-SQL query statement below */
 select 
 p.firstName,
 p.lastName,
